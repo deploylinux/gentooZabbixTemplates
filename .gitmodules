@@ -1,0 +1,3 @@
+[submodule "libzbxpgsql"]
+	path = libzbxpgsql
+	url = git@github.com:cavaliercoder/libzbxpgsql.git
